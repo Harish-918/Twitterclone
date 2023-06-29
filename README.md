@@ -5,7 +5,7 @@ Installation
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/Twitterclone.git
+git clone https://github.com/harish-918/Twitterclone.git
 
 2. Once cloned, navigate to the project directory:
 cd Twitterclone
